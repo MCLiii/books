@@ -5,10 +5,8 @@
 The files on the publisher's server are generally arranged in order, such as 001.jpg, 002.jpg, 003.jpg, 004.jpg
 <br>When the e-book is used, the current page will call another URL to download the page image, the source URL can be viewed by intercepting it through the browser development tool.</br>
 
-<H4> 
-HOW TO USE
-change the url source, output file location and iterator, run!
+<H4> HOW TO USE </H4>
+<br>change the url source, output file location and iterator, run!</br>
 
-<H4>
-IF IT WORKS
-Don't forget to star!!
+<H4>IF IT WORKS</H4>
+<br>Don't forget to star!!</br>
